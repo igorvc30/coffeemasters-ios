@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D4AB6ED29174CC100231922 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4AB6EC29174CC100231922 /* Offer.swift */; };
+		2D4AB6EE29174CCC00231922 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4AB6EC29174CC100231922 /* Offer.swift */; };
 		2D4D4FA028FCF98400A3F3EB /* CoffeMasterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4D4F9028FCF98200A3F3EB /* CoffeMasterApp.swift */; };
 		2D4D4FA128FCF98400A3F3EB /* CoffeMasterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4D4F9028FCF98200A3F3EB /* CoffeMasterApp.swift */; };
 		2D4D4FA228FCF98400A3F3EB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D4D4F9128FCF98200A3F3EB /* ContentView.swift */; };
@@ -16,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D4AB6EC29174CC100231922 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
 		2D4D4F9028FCF98200A3F3EB /* CoffeMasterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeMasterApp.swift; sourceTree = "<group>"; };
 		2D4D4F9128FCF98200A3F3EB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2D4D4F9228FCF98400A3F3EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -54,6 +57,7 @@
 		2D4D4F8F28FCF98200A3F3EB /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				2D4AB6EC29174CC100231922 /* Offer.swift */,
 				2D4D4F9028FCF98200A3F3EB /* CoffeMasterApp.swift */,
 				2D4D4F9128FCF98200A3F3EB /* ContentView.swift */,
 				2D4D4F9228FCF98400A3F3EB /* Assets.xcassets */,
@@ -176,6 +180,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D4AB6ED29174CC100231922 /* Offer.swift in Sources */,
 				2D4D4FA228FCF98400A3F3EB /* ContentView.swift in Sources */,
 				2D4D4FA028FCF98400A3F3EB /* CoffeMasterApp.swift in Sources */,
 			);
@@ -185,6 +190,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D4AB6EE29174CCC00231922 /* Offer.swift in Sources */,
 				2D4D4FA328FCF98400A3F3EB /* ContentView.swift in Sources */,
 				2D4D4FA128FCF98400A3F3EB /* CoffeMasterApp.swift in Sources */,
 			);
